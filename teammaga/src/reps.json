@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Josh Hawley",
+    "image" : "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Josh-Hawley.jpg",
+    "role": "Senator",
+    "state": "Missouri",
+    "state_abbr": "MO",
+    "party": "Republican",
+    "party_abbr": "R",
+    "ballotpedia": "https://ballotpedia.org/Josh_Hawley"
+  },
+  {
+    "name": "Ted Cruz",
+    "image" : "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ted_Cruz.jpg",
+    "role": "Senator",
+    "state": "Texas",
+    "state_abbr": "TX",
+    "party": "Republican",
+    "party_abbr": "R",
+    "ballotpedia": "https://ballotpedia.org/Ted_Cruz"
+  },
+  {
+    "name": "John Neely Kennedy",
+    "image" : "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/John_Neely_Kennedy__official_portrait__115th_Congress_2-7_fixed.jpg",
+    "role": "Senator",
+    "state": "Louisiana",
+    "state_abbr": "LA",
+    "party": "Republican",
+    "party_abbr": "R",
+    "ballotpedia": "https://ballotpedia.org/John_Neely_Kennedy"
+  },
+  {
+    "name": "Cindy Hyde-Smith",
+    "image" : "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/480px-Cindy_Hyde-Smith_official_photo.jpg",
+    "role": "Senator",
+    "state": "Mississippi",
+    "state_abbr": "MS",
+    "party": "Republican",
+    "party_abbr": "R",
+    "ballotpedia": "https://ballotpedia.org/Cindy_Hyde-Smith"
+  },
+  {
+    "name": "Roger Marshall",
+    "image" : "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Roger_Marshall.jpg",
+    "role": "Senator",
+    "state": "Kansas",
+    "state_abbr": "KS",
+    "party": "Republican",
+    "party_abbr": "R",
+    "ballotpedia": "https://ballotpedia.org/Roger_Marshall"
+  },
+  {
+    "name": "Tommy Tuberville",
+    "image" : "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Tuberville.png",
+    "role": "Senator",
+    "state": "Alabama",
+    "state_abbr": "AL",
+    "party": "Republican",
+    "party_abbr": "R",
+    "ballotpedia": "https://ballotpedia.org/Tommy_Tuberville"
+  }
+]
